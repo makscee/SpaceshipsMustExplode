@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/Scripts" t="Include">
+        <e p="Asteroid.cs" t="Include" />
+        <e p="CameraScript.cs" t="Include" />
+        <e p="Effects" t="Include">
+          <e p="EngineEffects.cs" t="Include" />
+        </e>
+        <e p="Level.cs" t="Include" />
+        <e p="Player.cs" t="Include" />
+        <e p="Ship" t="Include">
+          <e p="BlockModule.cs" t="Include" />
+          <e p="EmptyModule.cs" t="Include" />
+          <e p="EngineModule.cs" t="Include" />
+          <e p="MainModule.cs" t="Include" />
+          <e p="ModuleShadow.cs" t="Include" />
+          <e p="Ship.cs" t="Include" />
+          <e p="ShipModule.cs" t="Include" />
+          <e p="SwapModule.cs" t="Include" />
+        </e>
+        <e p="Utils" t="Include">
+          <e p="Prefab.cs" t="Include" />
+          <e p="Utils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ld43.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_ld43.1651035050.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>
